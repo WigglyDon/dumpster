@@ -1,5 +1,5 @@
-const testFunction = () => {
-  return "Hello World!";
+const testFunction = (): string => {
+  return "Bing Bong!";
 };
 
 console.log(testFunction());
