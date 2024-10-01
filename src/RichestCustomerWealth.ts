@@ -11,3 +11,5 @@ const maximumWealth = (accounts: number[][]): number => {
 
   return maxWealth;
 };
+
+console.log("testing111");
